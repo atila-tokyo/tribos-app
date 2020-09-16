@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Ajuru",
+    "language": "Tupari",
+    "location": "Roraima",
+    "population": 80,
+    "latitude": 5.1316,
+    "longitude": 60.7585
+  },
+  {
+    "id": 2,
+    "name": "Akuntsu",
+    "language": "Tupari",
+    "location": "Roraima",
+    "population": 4,
+    "latitude": 5.1316,
+    "longitude": 60.7585
+  },
+  {
+    "id": 3,
+    "name": "Amahuaca",
+    "language": "Panoan",
+    "location": "Amazonas",
+    "population": 500,
+    "latitude": 3.4168,
+    "longitude": 65.8561
+  },
+  {
+    "id": 4,
+    "name": "Amanayé",
+    "language": "Tupí–Guaraní",
+    "location": "Pará",
+    "population": 131,
+    "latitude": 1.4557,
+    "longitude": 48.4902
+  },
+  {
+    "id": 5,
+    "name": "Uru-Eu-Wau-Wau",
+    "language": "Tupí–Guaraní",
+    "location": "Rondônia",
+    "population": 115,
+    "latitude": 11.5057,
+    "longitude": 63.5806
+  },
+  {
+    "id": 6,
+    "name": "Aparai",
+    "language": "Karib",
+    "location": "Pará",
+    "population": 415,
+    "latitude": 1.4557,
+    "longitude": 48.4902
+  },
+  {
+    "id": 7,
+    "name": "Apiacá",
+    "language": "Apiacá",
+    "location": "Mato Grosso",
+    "population": 192,
+    "latitude": 12.6819,
+    "longitude": 56.9211
+  },
+  {
+    "id": 8,
+    "name": "Ikpeng",
+    "language": "Karib",
+    "location": "Mato Grosso",
+    "population": 459,
+    "latitude": 12.6819,
+    "longitude": 56.9211
+  }
+]
